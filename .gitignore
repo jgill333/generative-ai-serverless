@@ -1,0 +1,39 @@
+# Virtual Environment files #
+###################
+.env
+/venv
+
+# Source files #
+###################
+/source-files/*
+
+# Generated files #
+###################
+/generated-files
+!/generated-files/.gitkeep
+
+# Build Files #
+###################
+/.build/
+
+
+# IDE Files #
+###################
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files #
+###################
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+dump.rdb
+ehthumbs.db
+Thumbs.db

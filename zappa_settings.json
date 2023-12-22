@@ -1,0 +1,8 @@
+{
+  "gen-ai": {
+    "app_function": "main.app",
+    "project_name": "gen-ai-serverless",
+    "runtime": "python3.11",
+    "s3_bucket": "gen-ai-serverless"
+  }
+}
